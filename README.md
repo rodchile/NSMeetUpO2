@@ -34,10 +34,6 @@ Add a single line in the method ***openURL:*** in your app delegate, NSMeetUpO2 
 
 The library once obtains the access token send the `kNotificationDidLogin` notification and leaves the obtained access_token in NSUserDefaults, using the `@"access_token"` key.
 
-*strong** or __strong__ ( Cmd + B )
-
-*emphasize* or _emphasize_ ( Shift + Cmd + I )
-
 ==========
 
 
