@@ -2,7 +2,7 @@
 
 ## Overview
 
-**NSMeetUpO2**, Makes painless the O2Auth authorization process for your iOS apps.
+**NSMeetUpO2**, Makes painless the O2Auth authorization process for your iOS apps on the Meetup.com API.
 
 ==========
 
