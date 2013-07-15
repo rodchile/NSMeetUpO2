@@ -41,4 +41,4 @@ The library once obtains the access token send the `kNotificationDidLogin` notif
 
 Problems? Open an issue in this project and I'll be happy to help.
 
-Questions? Ping on Twitter ***(@rodchile)*** or my email (rod at rodrigogarcia.net)
+Questions? Ping me on Twitter ***(@rodchile)*** or my email (rod at rodrigogarcia.net)
