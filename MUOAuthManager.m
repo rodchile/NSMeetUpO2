@@ -25,6 +25,12 @@
 #define kClientId @"your-meetup-api-client-id"
 #define kClientSecret @"your-meetup-api-client-secret"
 
+#define kErrorFatal @"meetup-api-fatal-error"
+#define kErrorInvalidRequest @"meetup-api-invalid-request"
+
+static NSString * const kMeetupAPPSchemeURL = @"mp";
+static NSString * const kMeetupAPIOAuthorization = @"/auth";
+
 @interface MUOAuthManager ()
 @property (nonatomic,strong) AFHTTPClient *HTTPClient;
 @end
